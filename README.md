@@ -1,30 +1,26 @@
-\
-BlackJack version 1.0\
-Jack Kasbeer\
-Per. 3\
-\
+#Blackjack
+*A text-based Blackjack game with a dealer and one player (user)*
 
-\b INSTRUCTIONS
-\b0 \
-\
-BlackJack is a card game in which the object of the game is to get closer to a hand value of 21 than the dealer.  The value of the cards is as follows:\
-Two - Ten are face value\
-Jack - King are valued at 10\
-Ace is valued as either 11 or 1 (based on hand)\
-\
-Both the dealer and the player are originally dealt 2 cards each, but the dealer only shows one, while you show both.  To take another card, hit, if you are satisfied with your hand, stay, if you'd like to double your bet, you must take one card and one card only by doubling down.\
-\
-The most basic way to win is by getting closer to 21 than the dealer without exceeding 21, but you may also win by:\
-BlackJack- hand contains an ace and a card of value 10\
-Five Card Charlie- obtaining five cards with a  value that is <= 21\
-Dealer bust- dealer's hand exceeds 21\
-\
-To play the game, simply follow the in-game instructions.\
-\
+'Blackjack' is a simple Java application that I wrote for an AP Computer Science class, taken in high school.  It currently lacks a GUI, but contains all the correct logic and fun of an actual game of Blackjack (Five Card Charlie is even a way to win!)
 
-\b TABLE OF CONTENTS
-\b0 \
-\
+##How to Play
+
+BlackJack is a card game in which the object of the game is to get closer to a hand value of 21 than the dealer.  The value of the cards is as follows:
+Two - Ten are face value
+Jack - King are valued at 10
+Ace is valued as either 11 or 1 (based on hand)
+
+Both the dealer and the player are originally dealt 2 cards each, but the dealer only shows one, while you show both.  To take another card, hit, if you are satisfied with your hand, stay, if you'd like to double your bet, you must take one card and one card only by doubling down.
+
+The most basic way to win is by getting closer to 21 than the dealer without exceeding 21, but you may also win by:
+BlackJack- hand contains an ace and a card of value 10
+Five Card Charlie- obtaining five cards with a  value that is <= 21
+Dealer bust- dealer's hand exceeds 21
+
+To play the game, simply follow the in-game instructions.
+
+##Table of Contents
+
 src/card contains source code for:\
 - Card\
 - CardTester\
