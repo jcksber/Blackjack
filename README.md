@@ -111,5 +111,6 @@ There is also an issue with the Ace: every now and then it doesn't change value 
 - Play against your friends without an AI
 
 ##Highlights
-*This section was part of my assignment for the class, and isn't really useful to someone interested in downloading the game.*
+***Note:*** *This section was part of my assignment for the class, and isn't really useful to someone interested in downloading the game.*
+
 I still plan on finishing my GUI so that I can truly be proud of my game, but as of now I am proud of my use of try/catch methods because it solidifies the game.  I am also proud of my use of recursion because it is more efficient for try/catches and is more complex than what we've learned.
