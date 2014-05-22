@@ -1,5 +1,5 @@
 #Blackjack
-*A text-based Blackjack game with a dealer and one player (user)*
+*A text-based Blackjack game with a dealer and one player (user)*<br>
 ***Note:*** .zip download is also availble on [my site](http://jackkasbeer.co).
 
 Blackjack is a simple Java application that I wrote for an AP Computer Science class, taken in high school.  It currently lacks a GUI, but contains all the correct logic and fun of an actual game of Blackjack (Five Card Charlie is even a way to win!)
