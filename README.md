@@ -42,49 +42,58 @@ If you're interested in pulling this project, I'd love to accept your request! M
 
 ##Example Output
 
-Run 1:
+***Run 1:***
 
 Welcome to Jack Kasbeer's BlackJack!<br>
-What is your name?<br>
+*What is your name?*<br>
 Jack<br>
 Welcome to BlackJack, Jack!<br>
-How much money would you like to start with?<br>
+*How much money would you like to start with?*<br>
 10000<br>
 Please place a bet:<br>
 500
 
-Dealer is showing:<br>
+***Dealer is showing:***<br>
 Rank: King<br>
 Suit: Clubs<br>
-Numeric Value: 10<br>
-Your Cards:<br>
+Numeric Value: 10
+
+***Your Cards:***<br>
 Rank: Ten<br>
 Suit: Spades<br>
-Numeric Value: 10<br>
+Numeric Value: 10
+
 Rank: Nine<br>
 Suit: Spades<br>
 Numeric Value: 9<br>
+
 Would you like to hit(1), stay(2), or double down(3)?<br>
 2<br>
-YOUR HAND:<br>
+
+***YOUR HAND:***<br>
 Rank: Ten<br>
 Suit: Spades<br>
-Numeric Value: 10<br>
+Numeric Value: 10
+
 Rank: Nine<br>
 Suit: Spades<br>
-Numeric Value: 9<br>
-DEALER'S HAND:<br>
+Numeric Value: 9
+
+***DEALER'S HAND:***<br>
 Rank: King<br>
 Suit: Clubs<br>
-Numeric Value: 10<br>
+Numeric Value: 10
+
 Rank: Ten<br>
 Suit: Diamonds<br>
 Numeric Value: 10
 
-Dealer wins!<br>
+***Dealer wins!***
+
 Your current bank roll: 9500.0<br>
-Would you like to play again? 1 for YES, 2 for NO.<br>
-2<br>
+*Would you like to play again?* 1 for YES, 2 for NO.<br>
+2
+
 Thanks for playing!<br>
 
 ##Side notes
